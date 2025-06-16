@@ -1,0 +1,31 @@
+{
+  "name": "personalwebsite-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Backend for personal website. Initial uses include serving blog content, authentication, and tracking engagement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpzimmerman/PersonalWebsite-Backend.git"
+  },
+  "keywords": [
+    "express",
+    "js",
+    "personal",
+    "javascript",
+    "mongodb"
+  ],
+  "author": "Joshua Zimmerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpzimmerman/PersonalWebsite-Backend/issues"
+  },
+  "homepage": "https://github.com/jpzimmerman/PersonalWebsite-Backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.17.0"
+  }
+}
